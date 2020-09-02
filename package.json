@@ -1,0 +1,24 @@
+{
+  "name": "nest-service-registration-module",
+  "version": "1.0.0",
+  "description": "provides functionality to receive information from issue-creator and get the information in the nestjs project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf dist && tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "Jonas Wallmann",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^7.1.3",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.9.5"
+  }
+}
