@@ -1,0 +1,1 @@
+{"version":3,"file":"service-registration.service.d.ts","sourceRoot":"","sources":["../src/service-registration.service.ts"],"names":[],"mappings":"AAGA,MAAM,WAAW,YAAY;IACzB,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;CAChB;AAED,qBACa,mBAAmB;IAE5B,OAAO,CAAC,wBAAwB,CAAuC;IAEvE,gBAAgB,IAAI,OAAO,CAAC,YAAY,CAAC;IAUzC,iBAAiB,CAAC,YAAY,EAAE,YAAY;CAI/C"}
